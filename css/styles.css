@@ -1,4 +1,28 @@
 img {
   margin: 15px;
+}
 
+
+
+.display-4, .lead {
+    text-align: center;
+}
+
+.card {
+    border: 0;
+}
+
+.card-group {
+    align-content: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.badge {
+    display: block;
+    padding-bottom: 2px;
+    margin-top: 3px;
+    vertical-align: middle;
 }
